@@ -4,8 +4,8 @@
 | --- | --- |
 |  name  |  池田省吾（いけだしょうご）  |
 |  生息地  |  神奈川県茅ヶ崎市  
-|  Twitter  ||
-|  Qiita  ||
+|  Twitter  |  https://twitter.com/shogo_kpop  |
+|  Qiita  |  https://qiita.com/shogo_scott  |
 |  ポートフォリオ  |  掲載予定  |
 ## スキル
 * 基本的に学習で使用したスキルだけを列挙しています。
