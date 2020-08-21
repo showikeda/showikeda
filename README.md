@@ -19,4 +19,4 @@ Django | Flask |
 EC2 | 
 
 ### その他
-Docker | GitHub |
+Docker | GitHub | Messaging API |
